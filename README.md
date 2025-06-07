@@ -37,7 +37,7 @@
 ## 🖼️ Project Preview
 
 <p align="center">
-  <img src="screenshots/homepage.png" width="100%" alt="Netflix Clone Preview"/>
+  <img src="Screenshot 2025-06-07 132400.png" width="100%" alt="Netflix Clone Preview"/>
   <br/><i>Hero section, movie thumbnails & hover effects in action!</i>
 </p>
 
