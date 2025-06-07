@@ -38,7 +38,26 @@
 
 <p align="center">
   <img src="Screenshot 2025-06-07 132400.png" width="100%" alt="Netflix Clone Preview"/>
-  <br/><i>Hero section, movie thumbnails & hover effects in action!</i>
+
+---
+
+  <img src="Screenshot 2025-06-07 132426.png" width="100%" alt="Netflix Clone Preview"/>
+
+---
+  
+  <img src="Screenshot 2025-06-07 132447.png" width="100%" alt="Netflix Clone Preview"/>
+
+---
+  
+  <img src="Screenshot 2025-06-07 132508.png" width="100%" alt="Netflix Clone Preview"/>
+
+---
+  
+  <img src="Screenshot 2025-06-07 132525.png" width="100%" alt="Netflix Clone Preview"/>
+
+---
+  
+  <img src="Screenshot 2025-06-07 132556.png" width="100%" alt="Netflix Clone Preview"/>
 </p>
 
 ---
