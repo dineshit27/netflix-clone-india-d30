@@ -94,8 +94,8 @@ Made with 💖 by **[M Dinesh - JDMStudio430]**
 
 - 🔗 **Portfolio**: [mdinesh-portfolio.netlify.app](https://mdinesh-portfolio.netlify.app)
 - 📧 **Email**: [m.dinesh.it27@gmail.com](mailto:m.dinesh.it27@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/m-dinesh-jdm430d07](https://www.linkedin.com/in/m-dinesh-d30/)
-- 🐙 **GitHub**: [github.com/JDM430](https://github.com/dineshit27)
-- 📸 **Instagram**: [instagram.com/jdmstudio430](https://www.instagram.com/_dinx_pvt_430/#)
+- 💼 **LinkedIn**: [linkedin.com/in/m-dinesh-d30](https://www.linkedin.com/in/m-dinesh-d30/)
+- 🐙 **GitHub**: [github.com/dineshit27](https://github.com/dineshit27)
+- 📸 **Instagram**: [instagram.com/_dinx_pvt_430](https://www.instagram.com/_dinx_pvt_430/#)
 
 
